@@ -18,7 +18,7 @@ wfmajoranadis::usage="wfmajoranadis[a,\[Mu],vz,vimplist,dim,index]; WF for disor
 Hqd::usage="Hqd[a,\[Mu],\[CapitalDelta]0,V,\[Alpha],dim,dotsize,\[Mu]m]; Hamiltonian for quantum dots"
 
 
-wfmajornanaqd::usage="wfmajoranaqd[a,\[Mu],vz,l0,\[Mu]m,dim,index]; WF for quantum dots, index for first one or two state(s)"
+wfmajoranaqd::usage="wfmajoranaqd[a,\[Mu],vz,l0,\[Mu]m,dim,index]; WF for quantum dots, index for first one or two state(s)"
 
 
 Hsedis::usage="Hsedis[a_,\[Mu]0_,V0_,vimp_,\[Gamma]_,\[Omega]_,dim_]; Hamiltonian for disorder in self energy model"
